@@ -3,8 +3,9 @@
     <!-- From: file:/C:/Users/Sarnath%20K%20Jegadeesan/AndroidStudioProjects/GoogleFormUploadExample/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">GoogleSpreadSheetPostExample</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="button_text">Send to Form</string>
     <string name="menu_settings">Settings</string>
+    <string name="sensor_value_hint">Enter Sensor Value</string>
     <!-- From: file:/C:/Users/Sarnath%20K%20Jegadeesan/AndroidStudioProjects/GoogleFormUploadExample/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
